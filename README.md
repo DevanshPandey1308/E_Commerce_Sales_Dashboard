@@ -1,4 +1,4 @@
-"E-Commerce Sales Dashboard"  
+"Vehicles Sales Dashboard"  
 This project is a Power BI dashboard designed to analyze e-commerce sales performance and uncover key business insights. It highlights overall revenue, top-performing products, customer trends, and regional sales distribution — helping decision-makers understand sales patterns and optimize business strategies.
 
 📊 Dashboard Overview  
@@ -12,7 +12,7 @@ The dashboard provides a clear view of:
 •Visuals are designed for clarity, quick interpretation, and actionable insights.
 
 📁 Project Structure  
-📁 E-Commerce Sales Dashboard  
+📁 Vehicle Sales Dashboard  
 │── Dashboard.pbix            # Main Power BI dashboard file  
 │── sales_dataset/            # Raw sales dataset used for analysis  
 │── Screenshots/              # Dashboard screenshots for preview  
